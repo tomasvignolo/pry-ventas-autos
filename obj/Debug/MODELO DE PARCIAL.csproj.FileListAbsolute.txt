@@ -1,0 +1,22 @@
+E:\IES 2022\LABORATORIO DE PROGRAMACIÓN 3\MODELO DE PARCIAL\bin\Debug\MODELO DE PARCIAL.exe.config
+E:\IES 2022\LABORATORIO DE PROGRAMACIÓN 3\MODELO DE PARCIAL\bin\Debug\MODELO DE PARCIAL.exe
+E:\IES 2022\LABORATORIO DE PROGRAMACIÓN 3\MODELO DE PARCIAL\bin\Debug\MODELO DE PARCIAL.pdb
+E:\IES 2022\LABORATORIO DE PROGRAMACIÓN 3\MODELO DE PARCIAL\obj\Debug\MODELO DE PARCIAL.csproj.AssemblyReference.cache
+E:\IES 2022\LABORATORIO DE PROGRAMACIÓN 3\MODELO DE PARCIAL\obj\Debug\MODELO DE PARCIAL.csproj.SuggestedBindingRedirects.cache
+E:\IES 2022\LABORATORIO DE PROGRAMACIÓN 3\MODELO DE PARCIAL\obj\Debug\MODELO_DE_PARCIAL.Properties.Resources.resources
+E:\IES 2022\LABORATORIO DE PROGRAMACIÓN 3\MODELO DE PARCIAL\obj\Debug\MODELO DE PARCIAL.csproj.GenerateResource.cache
+E:\IES 2022\LABORATORIO DE PROGRAMACIÓN 3\MODELO DE PARCIAL\obj\Debug\MODELO DE PARCIAL.csproj.CoreCompileInputs.cache
+E:\IES 2022\LABORATORIO DE PROGRAMACIÓN 3\MODELO DE PARCIAL\obj\Debug\MODELO DE PARCIAL.exe
+E:\IES 2022\LABORATORIO DE PROGRAMACIÓN 3\MODELO DE PARCIAL\obj\Debug\MODELO DE PARCIAL.pdb
+E:\IES 2022\LABORATORIO DE PROGRAMACIÓN 3\MODELO DE PARCIAL\obj\Debug\MODELO_DE_PARCIAL.frmGraficar.resources
+C:\Users\Usuario1\OneDrive\Escritorio\MODELO DE PARCIAL\bin\Debug\MODELO DE PARCIAL.exe.config
+C:\Users\Usuario1\OneDrive\Escritorio\MODELO DE PARCIAL\bin\Debug\MODELO DE PARCIAL.exe
+C:\Users\Usuario1\OneDrive\Escritorio\MODELO DE PARCIAL\bin\Debug\MODELO DE PARCIAL.pdb
+C:\Users\Usuario1\OneDrive\Escritorio\MODELO DE PARCIAL\obj\Debug\MODELO DE PARCIAL.csproj.AssemblyReference.cache
+C:\Users\Usuario1\OneDrive\Escritorio\MODELO DE PARCIAL\obj\Debug\MODELO DE PARCIAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario1\OneDrive\Escritorio\MODELO DE PARCIAL\obj\Debug\MODELO_DE_PARCIAL.frmGraficar.resources
+C:\Users\Usuario1\OneDrive\Escritorio\MODELO DE PARCIAL\obj\Debug\MODELO_DE_PARCIAL.Properties.Resources.resources
+C:\Users\Usuario1\OneDrive\Escritorio\MODELO DE PARCIAL\obj\Debug\MODELO DE PARCIAL.csproj.GenerateResource.cache
+C:\Users\Usuario1\OneDrive\Escritorio\MODELO DE PARCIAL\obj\Debug\MODELO DE PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\OneDrive\Escritorio\MODELO DE PARCIAL\obj\Debug\MODELO DE PARCIAL.exe
+C:\Users\Usuario1\OneDrive\Escritorio\MODELO DE PARCIAL\obj\Debug\MODELO DE PARCIAL.pdb
